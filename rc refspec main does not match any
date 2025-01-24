@@ -1,0 +1,11 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6905638..793e588 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,4 @@[m
+ Mohammad Ashraf hello sirjkdkfk klskdd[m
+[31m-this is the master branch[m
+\ No newline at end of file[m
+[32m+[m[32mchangeing main[m
+[32m+[m[32mthis is the master branch[m
+[41m+[m
